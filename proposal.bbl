@@ -1,0 +1,64 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 0.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{gernsback_new_1926}{article}{}
+  \name{author}{1}{%
+    {{Gernsback}{G.}%
+     {Hugo}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \field{journaltitle}{Amazing Stories}
+  \field{annotation}{%
+  seminal first issue of Amazing Stories, this is the essay where Gernsback
+  defines "scientifiction"%
+  }
+  \strng{namehash}{GH1}
+  \strng{fullhash}{GH1}
+  \field{sortinit}{G}
+  \field{number}{April 1926}
+  \field{pages}{3}
+  \field{title}{A New Sort of Magazine}
+  \field{volume}{1}
+  \field{month}{04}
+  \field{year}{1926}
+\endentry
+
+\entry{mumford_portable_1911}{article}{}
+  \name{author}{1}{%
+    {{Mumford}{M.}%
+     {Lewis}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \field{journaltitle}{Modern Electrics}
+  \strng{namehash}{ML1}
+  \strng{fullhash}{ML1}
+  \field{sortinit}{M}
+  \field{number}{1}
+  \field{pages}{22\bibrangedash 23}
+  \field{title}{A Portable Receiving Outfit}
+  \field{volume}{4}
+  \field{year}{1911}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

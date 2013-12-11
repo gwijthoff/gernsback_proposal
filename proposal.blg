@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2010)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: proposal.aux
+The style file: biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: proposal-blx.bib
+Database file #2: gernsback.bib
+Biblatex version: 0.9
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 3 entries,
+            6083 wiz_defined-function locations,
+            1143 strings with 8350 characters,
+and the built_in function-call counts, 6711 in all, are:
+= -- 258
+> -- 228
+< -- 54
++ -- 75
+- -- 74
+* -- 394
+:= -- 615
+add.period$ -- 0
+call.type$ -- 3
+change.case$ -- 20
+chr.to.int$ -- 41
+cite$ -- 4
+duplicate$ -- 639
+empty$ -- 703
+format.name$ -- 96
+if$ -- 1532
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 0
+newline$ -- 63
+num.names$ -- 82
+pop$ -- 655
+preamble$ -- 1
+purify$ -- 22
+quote$ -- 0
+skip$ -- 407
+stack$ -- 0
+substring$ -- 172
+swap$ -- 232
+text.length$ -- 66
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 120
+warning$ -- 0
+while$ -- 91
+width$ -- 0
+write$ -- 59
