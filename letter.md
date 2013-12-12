@@ -1,38 +1,24 @@
-Dear Editor,
+---
+addressee: |
+   Douglas Armato\
+   University of Minnesota Press\
+   111 Third Avenue South\
+   Suite 290\
+   Minneapolis\, MN 55401-2520
+---
 
-I write to propose for publication a critical edition of essays by Hugo Gernsback (1884-1967) titled *The Perversity of Things: Writings on Media, Technology, and Science Fiction.*  This book makes available foundational texts by the magazine editor, inventor, and novelist that have been out of print since their original publication from 1905-1933.  The evolution of the Gernsback publications over this period -- from an electrical parts catalog into a fully-fledged literary genre -- is an untold story in American literary and media history.
+\opening{Dear Mr. Armato,}
 
-While Gernsback is best remembered for launching the first science fiction magazine in 1926 (*Amazing Stories*), and his name adorns the award given out each year to the best works in the genre (the Hugo Award), he new receives little more than a one- or two-sentence nod in science fiction studies.  The incredibly rich context of the genre's birth in Gernsback's fleet of technical publications for the amateur experimenter (early twentieth century prototypes of *Wired* magazine) as well as his work as a pioneer in media technologies and broadcasting techniques have been entirely overlooked.  In these publications, one could find a literary treatise on what the genre of "scientifiction" should look like alongside a blueprint for a homebrewed television receiver well before its commercial possibility.  *Electrical Experimenter* and *Modern Electrics* published profiles of new technologies employed in cinema production and projection, and commented on the depiction of characters in recently released films (a medium itself in its infancy) using new and often imaginary devices.  Long before Gernsback founded *Amazing Stories,* these magazines used speculative fiction to find a language for a wide range of emerging media like radio, television, or the more exotic osophone and telegraphone.
+I write to propose for publication a critical edition of essays by Hugo Gernsback (1884-1967) titled *The Perversity of Things: Writings on Media, Technology, and Science Fiction.*  This volume makes available foundational texts by the magazine editor, inventor, and novelist that have been out of print since their original publication in his magazines from 1905-1933.  The evolution of the Gernsback publications over this period -- from an electrical parts catalog into a fully-fledged literary genre -- is an untold story in American literary and media history.
 
-*The Perversity of Things,* named after a Gernsback essay on the influence that objects exert on thought, seeks to provide a reappraisal of both the "hard" technical roots of American science fiction and the highly speculative orientation toward media technologies during this period.  Science fiction in its infancy wasn't just a literary form, it was a mode of interacting with new media.  The need for this volume has become apparent in recent years as we feel the pressures of technological revolutions in everyday life, a paradigm shift similar to the one that brought readers to the Gernsback publications a century ago.  The ability of Gernsback's ideas to speak to us today can be seen in the ways that images from his magazines circulate online through a wide variety of blogs and social image sharing sites.  In addition, two major exhibits on Gernsback's life and works were recently held, one at Luxembourg's [National Center for Literature](http://www.cnl.public.lu/agenda/2011/5/Expo_Hugo_Gernsback/index.html?highlight=gernsback) in 2011, and another in 2013 at the [ZKM (Center for Art and Media Technology)](http://on1.zkm.de/zkm/stories/storyReader$8492) in Karlsruhe, Germany.^[A video of this exhibit can be seen at <http://www.youtube.com/watch?v=aEq6Mlu9j8I>]
+While Gernsback is best remembered for launching the first science fiction magazine in 1926 (*Amazing Stories*), and his name adorns the award given out each year to the best works in the genre (the Hugo Award), he now receives little more than a brief mention in science fiction studies.  The incredibly rich context of the genre's birth in Gernsback's fleet of technical publications for the amateur experimenter, as well as his work as a pioneer in media technologies and broadcasting techniques, have been entirely overlooked.  *The Perversity of Things,* named after a Gernsback essay on the influence that objects exert on thought, seeks to provide a reappraisal of both the "hard" technical roots of American science fiction and the highly speculative orientation toward media technologies during this period.  Science fiction during this period wasn't just a literary form, it was a mode of interacting with new media.
 
-The primary audience for the Perversity of Things will be…  I have previously published/presented work from this book…  
+The need for this volume has become apparent in recent years as we experience technological revolutions in the fabric of the everyday similar to those that brought readers to the Gernsback publications a century ago.  The ability of Gernsback's ideas to speak to us today can be seen in the ways that images from his magazines circulate online through a wide variety of blogs and social image sharing sites.  Gernsback's life and works are now beginning to receive a more formal treatment, with two major museum exhibits recently held, one at Luxembourg's [National Center for Literature](http://www.cnl.public.lu/agenda/2011/5/Expo_Hugo_Gernsback/index.html?highlight=gernsback) in 2011, and another in 2013 at the [ZKM (Center for Art and Media Technology)](http://on1.zkm.de/zkm/stories/storyReader$8492) in Karlsruhe, Germany.^[A video of this exhibit can be seen at <http://www.youtube.com/watch?v=aEq6Mlu9j8I>]  In addition, the visual artist Eric Schockmel is currently making an animated documentary film about Gernsback.
 
-Far from providing a mere cabinet of curiosities, this book will establish a thorough background on the emergence of critical conversations on historically new media.
-    The book will be organized chronologically in order to highlight the conceptual fluidity of publications that moved with ease from literature to technology.  I will, however, make available a thematic table of contents and organize my introduction around the following five areas:
+This volume has the potential for broad-based appeal to both academic and popular audiences.  A scant few works of scholarship have been devoted to this period in the history of science fiction, and it is my hope that the availability of these texts can significantly revise our understanding of the genre's origins.  Because Gernsback's writings explore many branching paths not taken in the history of media technologies, this book will be useful for media studies as well, a field increasingly interested in the "archaeology" of dead, hybrid, and imaginary media.  In design studies, where "design fiction" and "speculative design" are becoming vibrant fields of inquiry, a book surveying the prehistory of rapid prototyping and tinkering would prove a valuable resource.  These essays can find an audience outside of academia as well, as they were inherently meant to be read by a popular audience without sacrificing the sophistication of their ideas.
 
-* Tinkering: reports on broadcast experiments at Gernsback's WRNY radio station, new inventions developed at the Electro Importing Company labs, and critical essays on techniques for thinking creatively through technology
-* Scientifiction: foundational essays on science fiction as a distinct literary genre, including 
-* Media History: reading current inventions in light of their not so distant precursors, profiling forgotten paths not taken in the development of radio, for instance
-* Broadcast Regulation: 
-* Selected Fiction
-
-To offer you a sense of this material, I have enclosed two sample articles.  The first… **WHAT ARE THESE**  Explain mockup of page layout…
+To offer you a sense of this material I have enclosed two sample articles, using a page layout mockup I envision with wide footnote columns that can include (public domain) images and blueprints as well.  I have been in contact with Gernsback's family, who is very enthusiastic about this project and have assured me that these magazines remain in the public domain.  I have previously published on Gernsback in *Grey Room* and *Wi: Journal of Mobile Media,* as well as presented material from this book at Columbia, Princeton, the University of Pennsylvania, the Winterthur Museum of American material culture, and Université de Paris XIII, among other venues.
 
 Drawing on extensive archival research from the collections at the Hugo Gernsback Papers at Syracuse University (research generously funded by the Princeton Program in American Studies), I propose a selected edition of roughly 80 essays ranging from 500 to 2,500 words each.  This edition, including editorial apparatus and footnotes, would run approximately 100,000 words.  
 
-Minnesota’s … series seems a strong fit for my work, given your commitment in recent publications to…
-
-I am currently a Postdoctoral Fellow in the Society of Fellows in the Humanities at Columbia University, where I am developing my dissertation on the cultural history of the gadget into a book manuscript (see my enclosed CV).  Please do not hesitate to contact me if you have any questions.  I have submitted this query to several other presses, and I will let you know immediately should I receive interest from one of these.  In the meantime, I look forward to hearing from you.
-
-Sincerely,
-
-Dr. Grant Wythoff
-<grant.wythoff@gmail.com>
-856-296-9103
-
-Enclosed:
-CV
-Book Prospectus
-Table of Contents
-Two Annotated Essay Samples
+I am currently a Postdoctoral Fellow in the Society of Fellows in the Humanities at Columbia University, where I am developing my dissertation on the cultural history of the gadget into a book manuscript (see my enclosed CV).  Please do not hesitate to contact me if you have any questions.  I have submitted this query to two other presses, and I will let you know immediately should I receive interest from one of them.  In the meantime, I look forward to hearing from you. 
