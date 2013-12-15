@@ -89,4 +89,84 @@ Class scrlttr2 Info: no date found for language `USenglish'
 (scrlttr2)           --> skipped on input line 13.
 Package scrbase Info: No captions found for `american'
 (scrbase)             --> skipped on input line 13.
-Class scrlttr2 Info: no d
+Class scrlttr2 Info: no date found for language `american'
+(scrlttr2)           --> skipped on input line 13.
+Package scrbase Info: No captions found for `british'
+(scrbase)             --> skipped on input line 13.
+Class scrlttr2 Info: no date found for language `british'
+(scrlttr2)           --> skipped on input line 13.
+Package scrbase Info: No captions found for `UKenglish'
+(scrbase)             --> skipped on input line 13.
+Class scrlttr2 Info: no date found for language `UKenglish'
+(scrlttr2)           --> skipped on input line 13.
+Package scrbase Info: No captions found for `german'
+(scrbase)             --> skipped on input line 13.
+Class scrlttr2 Info: no date found for language `german'
+(scrlttr2)           --> skipped on input line 13.
+Package scrbase Info: No captions found for `ngerman'
+(scrbase)             --> skipped on input line 13.
+Class scrlttr2 Info: no date found for language `ngerman'
+(scrlttr2)           --> skipped on input line 13.
+Package scrbase Info: No captions found for `austrian'
+(scrbase)             --> skipped on input line 13.
+Class scrlttr2 Info: no date found for language `austrian'
+(scrlttr2)           --> skipped on input line 13.
+Package scrbase Info: No captions found for `naustrian'
+(scrbase)             --> skipped on input line 13.
+Class scrlttr2 Info: no date found for language `naustrian'
+(scrlttr2)           --> skipped on input line 13.
+Package scrbase Info: No captions found for `french'
+(scrbase)             --> skipped on input line 13.
+Class scrlttr2 Info: no date found for language `french'
+(scrlttr2)           --> skipped on input line 13.
+Package scrbase Info: No captions found for `italian'
+(scrbase)             --> skipped on input line 13.
+Class scrlttr2 Info: no date found for language `italian'
+(scrlttr2)           --> skipped on input line 13.
+Package scrbase Info: No captions found for `spanish'
+(scrbase)             --> skipped on input line 13.
+Class scrlttr2 Info: no date found for language `spanish'
+(scrlttr2)           --> skipped on input line 13.
+Package scrbase Info: No captions found for `croatian'
+(scrbase)             --> skipped on input line 13.
+Class scrlttr2 Info: no date found for language `croatian'
+(scrlttr2)           --> skipped on input line 13.
+Package scrbase Info: No captions found for `dutch'
+(scrbase)             --> skipped on input line 13.
+Class scrlttr2 Info: no date found for language `dutch'
+(scrlttr2)           --> skipped on input line 13.
+Package scrbase Info: No captions found for `finnish'
+(scrbase)             --> skipped on input line 13.
+Class scrlttr2 Info: no date found for language `finnish'
+(scrlttr2)           --> skipped on input line 13.
+Package scrbase Info: No captions found for `norsk'
+(scrbase)             --> skipped on input line 13.
+Class scrlttr2 Info: no date found for language `norsk'
+(scrlttr2)           --> skipped on input line 13.
+Package scrbase Info: No captions found for `swedish'
+(scrbase)             --> skipped on input line 13.
+Class scrlttr2 Info: no date found for language `swedish'
+(scrlttr2)           --> skipped on input line 13.
+./letter2.tex:13: Undefined control sequence.
+\bbl@switch ...bel@beginsave }\languageshorthands 
+                                                  {none}\ifcase \bbl@select@...
+l.13 \begin{document}
+                     
+? 
+./letter2.tex:13: Emergency stop.
+\bbl@switch ...bel@beginsave }\languageshorthands 
+                                                  {none}\ifcase \bbl@select@...
+l.13 \begin{document}
+                     
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 1128 strings out of 494536
+ 18641 string characters out of 6167445
+ 99152 words of memory out of 5000000
+ 4445 multiletter control sequences out of 15000+600000
+ 3938 words of font info for 15 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 35i,1n,37p,221b,47s stack positions out of 5000i,500n,10000p,200000b,80000s
+./letter2.tex:13:  ==> Fatal error occurred, no output PDF file produced!
