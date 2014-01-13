@@ -1,5 +1,5 @@
 ---
-bibliography: /Users/grantwythoff/TeX/zotero.bib
+bibliography: gernsback.bib
 ---
 
 Introduction 
@@ -7,13 +7,15 @@ Introduction
 
 In the April 1911 issue of Hugo Gernsback’s *Modern Electrics*, a fifteen-year-old Lewis Mumford published his first piece of writing in the magazine’s "Experimental Department," a place for readers’ home-brewed designs for novel electrical devices. Best known for the magisterial history of technology *Technics and Civilization* (1934), the young Mumford describes here his portable wireless telegraph receiver: "smaller than a small camera, in which sensitiveness is not sacrificed to saving of space." Flipping back three pages in the same issue, one can find the first installment of Gernsback’s serial novel *Ralph 124C 41+: A Romance of the Year 2660*, one of the earliest works of modern science fiction. [@mumford_portable_1911]
 
-The proximity of this future media theorist’s first published piece of writing to one of the foundational works of science fiction is no coincidence. Mumford’s early preoccupation as a tinkerer took root in a forum for the exchange of designs, components, and visions of the future.  Mumford, who would go on to have a successful career as, among many many other things, a literary critic and associate editor of *The Dial*, cites these experiences among a community of tinkerers in the pages of *Modern Electrics* as foundational for his later theories of what he called technology's "spiritual contribution to our culture."^[CITATION.]
+The proximity of this future media theorist’s first published piece of writing to one of the foundational works of science fiction is no coincidence. Mumford’s early preoccupation as a tinkerer took root in a forum for the exchange of designs, components, and visions of the future.  Mumford, who would go on to have a successful career as, among many many other things, a literary critic and associate editor of *The Dial*, later cites these experiences among a community of tinkerers in the pages of *Modern Electrics* as foundational for his later theories of what he called technology's "spiritual contribution to our culture."^[@mumford_technics_1963]
 
 Gernsback’s *Modern Electrics* began as a mail-order catalogue for imported wireless parts and exotic electrical miscellany in 1905, gradually evolving into a fleet of popular and specialist magazines, including *Electrical Experimenter, Radio News, Science & Invention*, and *Technocracy Review*.  Though Hugo Gernsback is best remembered today for launching the first science fiction magazine, *Amazing Stories* (1926), and the Hugo Award is given out each year to the best works in the genre, he now receives little more than a one- to two-sentence nod in science fiction studies. He is associated with the gaudy covers of his magazines and a "crude and heavy-handed" editorial style that perpetuated many of the negative stereotypes still associated with science fiction today. Much of this attitude has been inherited from a generation of science fiction scholars who were not academics but editors themselves, and disparaged Gernsback’s editorial practices as well as the infamously low wages he paid his writers. But this inherited version focuses only on the period from *Amazing Stories* and after, entirely overlooking the context of the genre’s birth in Gernsback’s fleet of electrical experimenter magazines, as well as his work as a pioneer in media technologies and broadcasting techniques.
 
-For Frank Pichler, "Hugo Gernsback is the father of American electronic culture," and it is this lineage that *The Perversity of Things* seeks to uncover.^[CITATION.]  What sets Gernsback’s magazines apart from other technical publications of the period like *The Wireless Age* and *QST* is the way in which he encouraged his contributors to enlist fiction in their attempts to find a language suited to the analysis of emerging media such as radio, television, or the more exotic osophone and telegraphone. For instance, when readers submitting a design encountered difficulties in describing its specifications – perhaps a certain component was technically or economically unfeasible – they would stitch their incomplete engineering diagrams together with narrative threads. With his monthly editorials, feature articles, and short fiction, Gernsback pioneered a kind of writing that combined hard technical description with an openness to the fantastic. It was a mixture out of which an entire literary genre emerged to tackle the question of the distinctive specificity of "medium" in a new wireless age.
+*The Perversity of Things: Writings on Media, Technology, and Science Fiction* makes available texts by Gernsback that were foundational for both science fiction and the emergence of media studies.  These editorials, speculative blueprints, literary critical essays, and media histories have been out of print since their original publication in Gernsback's magazines from 1905-1933.  Together, they show how his publications evolved from an electrical parts catalog into a fully-fledged literary genre, an altogether untold story in American literary and media history.
 
-The literary historical gambit of this book is to recover the radical sense of openness that greeted not only the basement tinkerer working through the feasibility of transmitting images over a wire, but also the author of "scientifiction" stories who possessed a highly sophisticated awareness of the fact that "Two hundred years ago, stories of this kind were not possible." Often, these individuals were one and the same, weaving together functional and fictional devices in a manner that served for them as a form of scientific discovery in itself.
+As Frank Pichler writes, "Hugo Gernsback is the father of American electronic culture."  *The Perversity of Things* will help to uncover this lineage.^[CITATION.]  What sets Gernsback’s magazines apart from other technical publications of the period like *The Wireless Age* and *QST* is the way in which he encouraged his contributors to enlist fiction in their attempts to find a language suited to the analysis of emerging media such as radio, television, or the more exotic osophone and telegraphone. For instance, when readers submitting a design encountered difficulties in describing its specifications – perhaps a certain component was technically or economically unfeasible – they would stitch their incomplete engineering diagrams together with narrative threads. With his monthly editorials, feature articles, and short fiction, Gernsback pioneered a kind of writing that combined hard technical description with an openness to the fantastic. It was a mixture out of which an entire literary genre emerged to tackle the question of the distinctive specificity of "medium" in a new wireless age.
+
+The literary historical gambit of this book is to recover the radical sense of openness that greeted not only the basement tinkerer working through the feasibility of transmitting images over a wire, but also the author of "scientifiction" stories who possessed a highly sophisticated awareness of the fact that "Two hundred years ago, stories of this kind were not possible."  Often, these individuals were one and the same, weaving together functional and fictional devices in a manner that served for them as a form of scientific discovery in itself.
 
 Background 
 ==========
@@ -50,8 +52,10 @@ This story has held sway over the reception of Gernsback until very recently. A 
 Recent books and exhibits
 -------------------------
 
-Recovering Modernism
-Justine Larbalestier
+David M. Earle, *Recovering Modernism* (Ashgate, 2009)
+Justine Larbalestier, *The Battle of the Sexes in Science Fiction* (Wesleyan, 2002)
+John Cheng, *Astounding Wonder* (UPenn Press, 2012)
+John Rieder, *Colonialism and the Emergence of Science Fiction* (Wesleyan, 2008)
 
 (Tesla's *Autobiography*, which ran in *Modern Electrics* between …, was recently published as a Penguin Classics edition.)
 
@@ -145,4 +149,7 @@ Specifications
 ==============
 
 Introduction, 12k - 16k? (40p typed, 30p in print / 53 typed, 40p in print)
-Footnotes per essay? 
+
+Footnotes per essay?
+
+80 essays, ranging from 500-2,500 words each, plus introduction and editorial apparatus, book would run ~100,000 words.
