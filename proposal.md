@@ -1,42 +1,45 @@
 ---
+title: |
+    *The Perversity of Things:*\
+    *Writings on Media, Technology, and Science Fiction*\
+    Hugo Gernsback
+author: |
+    Grant Wythoff, editor
+    Society of Fellows in the Humanities
+    Columbia University
+    <wythoff.net>
+date: 13 January 2014
 bibliography: gernsback.bib
+csl: /Users/grantwythoff/TeX/_chicago-fullnote.csl
 ---
 
-Introduction 
-============
+# Introduction 
 
-In the April 1911 issue of Hugo Gernsback’s *Modern Electrics*, a fifteen-year-old Lewis Mumford published his first piece of writing in the magazine’s "Experimental Department," a place for readers’ home-brewed designs for novel electrical devices. Best known for the magisterial history of technology *Technics and Civilization* (1934), the young Mumford describes here his portable wireless telegraph receiver: "smaller than a small camera, in which sensitiveness is not sacrificed to saving of space." Flipping back three pages in the same issue, one can find the first installment of Gernsback’s serial novel *Ralph 124C 41+: A Romance of the Year 2660*, one of the earliest works of modern science fiction. [@mumford_portable_1911]
+In the April 1911 issue of editor Hugo Gernsback’s *Modern Electrics*, a fifteen-year-old Lewis Mumford published his first piece of writing in the magazine’s "Experimental Department," a place for readers’ home-brewed designs for novel electrical devices. Best known for the magisterial history of technology *Technics and Civilization* (1934), the young Mumford describes here his portable wireless telegraph receiver: "smaller than a small camera, in which sensitiveness is not sacrificed to saving of space." Flipping back three pages in the same issue, one can find the first installment of Gernsback’s serial novel *Ralph 124C 41+: A Romance of the Year 2660*, one of the earliest works of modern science fiction. [@mumford_portable_1911]
 
-The proximity of this future media theorist’s first published piece of writing to one of the foundational works of science fiction is no coincidence. Mumford’s early preoccupation as a tinkerer took root in a forum for the exchange of designs, components, and visions of the future.  Mumford, who would go on to have a successful career as, among many many other things, a literary critic and associate editor of *The Dial*, later cites these experiences among a community of tinkerers in the pages of *Modern Electrics* as foundational for his later theories of what he called technology's "spiritual contribution to our culture."^[@mumford_technics_1963]
+The proximity of this future media theorist’s first published piece of writing to one of the foundational works of science fiction is no coincidence. Mumford’s early preoccupation as a tinkerer took root in a forum for the exchange of designs, components, and visions of the future. Mumford, who would go on to have a successful career as, among many other things, a literary critic and associate editor of *The Dial*, later cites these experiences among a community of tinkerers in the pages of *Modern Electrics* as foundational for his later theories of what he called technology's "spiritual contribution to our culture."^[@mumford_technics_1963]
 
-Gernsback’s *Modern Electrics* began as a mail-order catalogue for imported wireless parts and exotic electrical miscellany in 1905, gradually evolving into a fleet of popular and specialist magazines, including *Electrical Experimenter, Radio News, Science & Invention*, and *Technocracy Review*.  Though Hugo Gernsback is best remembered today for launching the first science fiction magazine, *Amazing Stories* (1926), and the Hugo Award is given out each year to the best works in the genre, he now receives little more than a one- to two-sentence nod in science fiction studies. He is associated with the gaudy covers of his magazines and a "crude and heavy-handed" editorial style that perpetuated many of the negative stereotypes still associated with science fiction today. Much of this attitude has been inherited from a generation of science fiction scholars who were not academics but editors themselves, and disparaged Gernsback’s editorial practices as well as the infamously low wages he paid his writers. But this inherited version focuses only on the period from *Amazing Stories* and after, entirely overlooking the context of the genre’s birth in Gernsback’s fleet of electrical experimenter magazines, as well as his work as a pioneer in media technologies and broadcasting techniques.
+Gernsback’s *Modern Electrics* began as a mail-order catalogue for imported wireless parts and exotic electrical miscellany in 1905, gradually evolving into a fleet of popular and specialist magazines, including *Electrical Experimenter, Radio News, Science & Invention*, and the *Technocracy Review*.  Though Hugo Gernsback is best remembered today for launching the first science fiction magazine, *Amazing Stories* (1926), and the Hugo Award is given out each year to the best works in the genre, he now receives little more than a one- to two-sentence nod in science fiction studies. He is associated with the gaudy covers of his magazines and a "crude and heavy-handed" editorial style that perpetuated many of the negative stereotypes still associated with science fiction today. Much of this attitude has been inherited from a generation of science fiction scholars who were not academics but editors themselves, and disparaged Gernsback’s editorial practices as well as the infamously low wages he paid his writers. But this inherited version focuses only on the period from *Amazing Stories* and after, entirely overlooking the context of the genre’s birth in Gernsback’s experimenter magazines, as well as his work as a pioneer in media technologies and broadcasting techniques.
 
-*The Perversity of Things: Writings on Media, Technology, and Science Fiction* makes available texts by Gernsback that were foundational for both science fiction and the emergence of media studies.  These editorials, speculative blueprints, literary critical essays, and media histories have been out of print since their original publication in Gernsback's magazines from 1905-1933.  Together, they show how his publications evolved from an electrical parts catalog into a fully-fledged literary genre, an altogether untold story in American literary and media history.
+Titled after an essay of his on the influence that objects exert on thought, *The Perversity of Things: Writings on Media, Technology, and Science Fiction* makes available texts by Gernsback that were foundational for both science fiction and the emergence of media studies.  These editorials, speculative blueprints, literary critical essays, and media histories have been out of print since their original publication in Gernsback's magazines from 1905-1933.  Together, they show how his publications evolved from an electrical parts catalog into a fully-fledged literary genre, an altogether untold story in American literary and media history.  As the curator of a (recent exhibit)[http://on1.zkm.de/zkm/stories/storyReader%248492] on Gernsback at the ZKM (Center for Art and Media Technology), Franz Pichler writes, "Hugo Gernsback is the father of American electronic culture."^[@pichler_hugo_2013]  With his monthly editorials, feature articles, and short fiction, Gernsback pioneered a kind of writing that combined hard technical description with an openness to the fantastic. It was a mixture out of which an entire literary genre emerged to tackle the question of the distinctive specificity of "medium" in a new wireless age in the opening decades of the twentieth century.  *The Perversity of Things* will show that science fiction emerged in the United States as a discourse on media.
 
-As Frank Pichler writes, "Hugo Gernsback is the father of American electronic culture."  *The Perversity of Things* will help to uncover this lineage.^[CITATION.]  What sets Gernsback’s magazines apart from other technical publications of the period like *The Wireless Age* and *QST* is the way in which he encouraged his contributors to enlist fiction in their attempts to find a language suited to the analysis of emerging media such as radio, television, or the more exotic osophone and telegraphone. For instance, when readers submitting a design encountered difficulties in describing its specifications – perhaps a certain component was technically or economically unfeasible – they would stitch their incomplete engineering diagrams together with narrative threads. With his monthly editorials, feature articles, and short fiction, Gernsback pioneered a kind of writing that combined hard technical description with an openness to the fantastic. It was a mixture out of which an entire literary genre emerged to tackle the question of the distinctive specificity of "medium" in a new wireless age.
+# Background 
 
-The literary historical gambit of this book is to recover the radical sense of openness that greeted not only the basement tinkerer working through the feasibility of transmitting images over a wire, but also the author of "scientifiction" stories who possessed a highly sophisticated awareness of the fact that "Two hundred years ago, stories of this kind were not possible."  Often, these individuals were one and the same, weaving together functional and fictional devices in a manner that served for them as a form of scientific discovery in itself.
+## Gernsback’s biography 
 
-Background 
-==========
+Born Hugo Gernsbacher in Luxembourg in 1884, the son of a successful wine wholesaler, Gernsback immigrated to the United States in 1904 at the age of 19. Carrying with him the design for a new kind of dry cell battery, Gernsback published his first article on the device a year later in *Scientific American* under that most American of names, "Huck." Gernsback sold the battery patent to the Packard Motor Car Company, who ended up using technology in their ignition systems.  With the profits of his sale, Gernsback formed the Electro Importing Company, an importer of specialized electrical equipment from Europe and the first mail-order radio house in the country. Through their catalog and retail store at 84 West Broadway in New York, the company provided access to specialized wireless and electrical equipment not found anywhere outside of Europe. Electro Importing catered to a diverse clientele, providing their more advanced basement experimenters with the first vacuum tube offered for sale to the general public in 1911, and manufacturing for their novice users in 1905 the first fully assembled radio set commercially available, the Telimco.
 
-Gernsback’s biography 
----------------------
-
-Born Hugo Gernsbacher in Luxembourg in 1884, the son of a successful wine wholesaler, Gernsback immigrated to the United States in 1904 at the age of 19. Carrying with him the design for a new kind of dry cell battery, Gernsback published his first article on the device a year later in *Scientific American* under that most American of names, "Huck." Gernsback sold the battery patent to the Packard Motor Car Company, who ended up using technology in their ignition systems.
-
-With the profits of his sale, Gernsback formed the Electro Importing Company, an importer of specialized electrical equipment from Europe and the first mail-order radio house in the country. Through their catalog and retail store at 84 West Broadway in New York, the company provided access to specialized wireless and electrical equipment not found anywhere outside of Europe. Electro Importing catered to a diverse clientele, providing their more advanced basement experimenters with the first vacuum tube offered for sale to the general public in 1911, and manufacturing for their novice users in 1905 the first fully assembled radio set commercially available, the Telimco.
+![Electro Importing Company store, c. 1908](imgaes/eico_store.png)
 
 After several issues of their mail order catalog and a growing subscription list, Electro Importing began including features, editorials, and letters to the editor. Between 1906 and 1910, the catalog grew into a series of monthly magazines for the wireless homebrewer, beginning with *Modern Electrics* in 1908 and the offshoot Experimenter Publishing Company in 1915. While *Modern Electrics* still advertised the equipment Electro Importing offered for sale in a familiar grid layout with ordering instructions, it also included feature articles detailing the latest research into experimental media technologies in America, Germany, France, and in Gernsback’s own company offices. Regular reporters and celebrity guest contributors like Lee De Forest, Thomas Edison, and Nikola Tesla, provided reports on television, wireless telephony, and the use of novel electrical apparatuses in film and theatrical productions, each of which would go into a great degree of technical detail.
 
 But the hallmark of the magazine and those to follow in its wake became its more speculative articles, those that were willing to extrapolate fantastic scenarios out of the technical details at hand. In "Signaling to Mars," Gernsback detailed the conditions that would have to obtain in order for Earth to send messages via wireless telegraph to the red planet. For readers of *Modern Electrics*, the technical context in which this highly speculative article appeared only led credence to the idea that contact with an alien civilization was right around the corner. In the copy of this issue at Princeton University’s Firestone Library, someone inserted a newspaper clipping (now a permanently affixed leaf within the bound volume) that tells of a new distance record for wireless signaling, from San Francisco to the Pacific Mail Line steamship Korea as it made its way across the ocean. Left there as if to vouch for the plausibility of the idea that we’ll soon be able to connect with our nearest planetary neighbor, the clipping provides a wonderful sense of how it was people read these magazines. Though the Gernsback titles eventually became infamous for their sometimes outlandish claims – that electric current might clean us better than water; that the success of a marriage can be predicted using gadgets assembled out of various household supplies – they were always presented through a lens of supposedly scientific rationality. This frame affected the reception of the magazines by their readers, the design ethos that grew up around them, and the kind of fiction they eventually produced.
 
-The shape of media to come took on an iconography all its own through the illustrations of Frank R. Paul. Paul’s depictions of gadgetry circulated widely beyond their original publication venues in a way that has never before been given any attention. Plans for the osophon, a device Gernsback designed to replace headphones by transmitting sound through vibrations in the jawbone of the listener, were published and reviewed in the German journal *Der Radio-Amateur*.[1] Paul’s sketch of a man using a tuning fork to calibrate the speed of the 1928 Science and Invention Nipkow disk television receiver was republished the following year in the Chinese film journal *Yingxi zazhi* (*Shadow Play Magazine*) as an illustration of recent research into television, what was referred to in the article as, directly translated, "wireless cinema."[2]  Paul's images, now in the public domain, accompanied Gernsback's writings and will form an important part of this collection as well.  It is my hope that further research into the global circulation of these images could reveal what we might think of as an emergent, transnational media culture in the mid- to late-1920s that thrived off discussions of recombinant media technologies and dreams of a media saturated future.
+The shape of media to come took on an iconography all its own through the illustrations of Frank R. Paul. Paul’s depictions of gadgetry circulated widely beyond their original publication venues in a way that has never before been given any attention. Plans for the osophon, a device Gernsback designed to replace headphones by transmitting sound through vibrations in the jawbone of the listener, were published and reviewed in the German journal *Der Radio-Amateur*.^[@nesper_osophon_1924] Paul’s sketch of a man using a tuning fork to calibrate the speed of the 1928 Science and Invention Nipkow disk television receiver was republished the following year in the Chinese film journal *Yingxi zazhi* (*Shadow Play Magazine*) as an illustration of recent research into television, what was referred to in the article as, directly translated, "wireless cinema."^[@bao_sympathetic_2011. Bao located Paul’s illustration of the *Science and Invention* television receiver in @shen_xiaose__dianyingjie_1929. The term for television used in this article is "wuxian dianying (wireless cinema, or, more literally, wireless electric shadow, or radio shadow)." Paul’s images were originally published in @_radio_1928.]  Paul's images, now in the public domain, accompanied Gernsback's writings and will form an important part of this collection as well.  It is my hope that further research into the global circulation of these images could reveal what we might think of as an emergent, transnational media culture in the mid- to late-1920s that thrived off discussions of recombinant media technologies and dreams of a media saturated future.
 
-[1] Eugen Nesper, "Das Osophon von H. Gernsback," *Der Radio-Amateur* (vol. 2, no.1, 1924), 10. 
-[2] Weihong Bao, "Sympathetic Vibrations: Hypnotism, Wireless Cinema, and the Invention of Intermedial Spectatorship in 1920s China," Media Histories: Epistemology, Materiality, Temporality, Columbia University, New York, 26 March 2011. Bao located Paul’s illustration of the Science and Invention television receiver in Shen Xiaose ???, "Dianyingjie de jiizhong xin faming" (several new inventions in the film world), Dianying yuebao (vol. 9, 1929), 1-64. The term for television used in this article is "wuxian dianying (wireless cinema, or, more literally, wireless electric shadow, or radio shadow)." Paul’s images were originally published in "Radio Movie," *Science and Invention*, vol. 16 no. 7 (November 1928), p. 622-3.
+![*Science and Invention* illustrations republished in Chinese film journal *Yingxi Zazhi*](images/shadow_play_mag.jpg)
 
-Gernsback’s reputation in the critical literature =================================================
+## Gernsback’s reputation in the critical literature
 
 Hugo Gernsback has historically been given very little attention in science fiction studies, with the field's leading critics often assuming that *Amazing Stories* was little more than a marketing gimmick for Gernsback’s technical ventures.  The fiction published in the pages of his magazines is often seen to have very little aesthetic or literary value.  So when Gernsback is given credit in the foundation of modern American SF, it is as a kind of marketer of a new brand name, rather than a writer or editor.  As Alexi and Cory Panshin write, "In the pages of Amazing, SF literature at last became identified by a single name: ’scientifiction.’ It was provided with a history. It was defined and demonstrated. It was consolidated and unified. In Amazing, SF became conscious of itself."[3]  According to John Clute and Peter Nicholls, Gernsback "gave the genre a local habitation and a name," and for James Gunn, he "provided a focus for enthusiasm, for publication, for development," and bestowed science fiction with its "characteristic content, a characteristic form, and characteristic purposes."[4] 
 
@@ -49,8 +52,7 @@ This story has held sway over the reception of Gernsback until very recently. A 
 [3] Alexi Panshin and Cory Panshin, The World Beyond the Hill: Science Fiction and the Quest for Transcendence (Los Angeles: Jeremy P. Tarcher, Inc: 1989), 170. 
 [4] John Clute and Peter Nicholls, The Encyclopedia of Science Fiction (London: Orbit Books, 1993), 491. James Gunn, Alternate Worlds: The Illustrated History of Science Fiction (A and W Visual Library, 1975), 128.
 
-Recent books and exhibits
--------------------------
+# Recent books and exhibits
 
 David M. Earle, *Recovering Modernism* (Ashgate, 2009)
 Justine Larbalestier, *The Battle of the Sexes in Science Fiction* (Wesleyan, 2002)
@@ -61,17 +63,17 @@ John Rieder, *Colonialism and the Emergence of Science Fiction* (Wesleyan, 2008)
 
 Craig Yoe’s *The Best of Sexology: Kinky and Kooky Excerpts from America’s First Sex Magazine* (Running Press, 2008) is an anthology of articles from one of Gernsback’s more adventurous titles, *Sexology*. Unfortunately, the volume does little more than reproduce page scans of articles from the magazine, treating them as retro-kitsch curiosities that deserve no further contextualization or detail.
 
+ZKM curated by Peter Weibel and Franz Pichler
+
 ^[A video of this exhibit can be seen at <http://www.youtube.com/watch?v=aEq6Mlu9j8I>]
 
-Outline of Book 
-===============
+# Outline of Book 
 
 My introduction to this volume will situate Gernsback’s essays within their technological and media historical contexts.  The book will then be organized chronologically in order to highlight the conceptual fluidity of Gernsback's writings and allow readers to experience the interdisciplinary soup out of which his thinking emerged.  For instance, one essay covers the chemical properties of selenium as a substrate for electrically transmitted images, while the next details a forgotten nineteenth century dime novel author, or legislation on the regulation of wireless signaling.  Though these topics seem very disparate to us today, they emerged as part of the same epistemological endeavor.  Ordering the essays chronologically allows us to preserve this context.
 
 A thematic index will provide a further entry point for readers interested in particular aspects of Gernsback’s thinking. Each of these five sections (which will organize the book's introductory essay as well) are explained below.
 
-Scientifiction 
---------------
+## Scientifiction 
 
 > *Foundational writings on science fiction as a distinct genre, including literary historical essays on writers Gernsback understood to be predecessors: Wells, Verne, Poe, Luis Senarens, Clement Fezandié.*
 
@@ -81,8 +83,7 @@ Today, the phrase "science fiction" conjures up images of bug-eyed monsters, ray
 
 As early as 1915, Gernsback cites dime novels like *Deadwood Dick* and authors like Luis Senarens ("An American Jules Verne"), revealing an awareness of the genealogy of science fiction over a decade before the launch of *Amazing Stories* in 1926, when most SF critics locate the birth of the genre.  These essays make clear that a very sophisticated understanding of the genre's roots was already in place by the 1910s, and that science fiction as we understand it today was a rich and variegated series of activities, rather than merely a literary form.
 
-Tinkering and technology 
-------------------------
+## Tinkering and technology 
 
 > *Reports on broadcast experiments at Gernsback's WRNY radio station, new inventions developed at the Electro Importing Company labs, and critical essays on techniques for thinking creatively through technology.*
 
@@ -100,8 +101,7 @@ Rather, he had an abiding interest in the aesthetics of broadcasting audio, whic
 
 Texts highlighting the creativity of the inventor, techniques for problem solving. ("Is Radio at a Standstill?"; "Why the Radio Set Builder"; 
 
-Media history
--------------
+## Media history
 
 > *Later works that read current inventions in light of their not so distant precursors, profiling forgotten (and often quirky) paths not taken in the development of radio and television.*
 
@@ -113,8 +113,7 @@ Examples range from a force-field like burglar alarm, to automating the recordin
 
 Gernsback reminds us that the inherent abilities of wireless, of information transmitted through the air, has now itself been scattered by the winds of technological evolution and inflects our understanding of and interaction with a fantastic number of techniques, technologies, and media.
 
-Broadcast regulation 
---------------------
+## Broadcast regulation
 
 > *Activism, community organization, and manifestos written in service of radio amateur rights after the US government banned all public wireless activities in the wake of World War I; includes later writings for the technocracy movement.*
 
@@ -136,8 +135,7 @@ Kennedy: "With the war over, the question of "regulating the amateur" came up ag
 
 Later association with the Technocracy movement. ("The Machine and the Depression")
 
-Selected fiction 
-----------------
+## Selected fiction
 
 > *Four short stories and the original serialized version of the famous *Ralph 124C 41+*, all of which have been out of print since their original magazine publication.*
 
@@ -145,8 +143,7 @@ While several editions of Gernsback’s *Ralph 124C 41+* was republished in 1950
 
 Other short stories by Gernsback that have not been reprinted include "New York A.D. 2660" (1911), "The Magnetic Storm" (1918), "The Electric Duel" (1923), and "The Killing Flash" (1929). As mentioned above, the speculative mode of these fictions is not out of step with the technical articles they were published alongside. Including them within the continuum of essays on broadcast regulation and tinkering allows them to be experienced in a context similar to their original intentions/publication.
 
-Specifications 
-==============
+# Specifications 
 
 Introduction, 12k - 16k? (40p typed, 30p in print / 53 typed, 40p in print)
 
